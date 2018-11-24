@@ -1,0 +1,6 @@
+Credentials cache: API:42855
+        Principal: tidadi@42.US.ORG
+
+  Issued                Expires               Principal
+Aug 21 00:16:56 2018  Aug 21 10:16:56 2018  krbtgt/42.US.ORG@42.US.ORG
+Aug 21 00:17:00 2018  Aug 21 10:16:56 2018  ldap/ldap-proxy.42.us.org@42.US.ORG
